@@ -1,0 +1,12 @@
+# Mac OS
+.DS_Store
+
+# ipynb_checkpoints
+.ipynb_checkpoints
+
+# checkpoints folder
+checkpoints
+
+# output graph folder
+graphs
+
