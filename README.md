@@ -24,11 +24,14 @@ This repository is a collection of various style-transfer models.
 * `ipynb code` [model01/01_style_transfer.ipynb](https://nbviewer.jupyter.org/github/ilguyi/style-transfer.tensorflow/blob/master/model01/01_style_transfer.ipynb)
 
 #### Results
-##### My cat
+##### Tubingen
 <p align="center">
-<img src='./input_data/my_cat1.jpg' height='192px'>
-<img src='./results/my_cat1_Gogh_The_Starry_Night_sw_1000.jpg' height='192px'>
+<img src='./input_data/tubingen.jpg' height='192px'>
+<img src='./results/tubingen_Gogh_The_Starry_Night_sw_0.01_cs_512_ss_512_tv_0.0001.jpg' height='192px'>
 </p>
+
+
+
 
 
 ## Author
