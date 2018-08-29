@@ -7,7 +7,7 @@ This repository is a collection of various style-transfer models.
 
 ### Prerequisites
 * TensorFlow 1.10
-  * vgg_16 pre-trained models
+  * vgg_19 pre-trained models
 * Python 3.6
 * Python libraries:
   * numpy, matplotlib, PIL
@@ -25,14 +25,18 @@ This repository is a collection of various style-transfer models.
 
 #### Results
 ##### Tubingen
-<p align="center">
-<img src='./input_data/tubingen.jpg' height='192px'>
-<img src='./results/tubingen_Gogh_The_Starry_Night_sw_0.01_cs_512_ss_512_tv_0.0001.jpg' height='192px'>
-</p>
+<div align="center">
+<img src='./input_data/tubingen.jpg' height='250px'>
+<img src='./results/tubingen_shipwreck_sw_0.05_cs_512_ss_512_tv_0.0001.jpg' height='250px'>
+<img src='./results/tubingen_Gogh_The_Starry_Night_sw_0.01_cs_512_ss_512_tv_0.0001.jpg' height='250px'>
+<img src='./results/tubingen_Munch_The_Scream_sw_0.01_cs_512_ss_512_tv_1e-05.jpg' height='250px'>
+<img src='./results/tubingen_seated-nude_sw_0.05_cs_512_ss_512_tv_0.0001.jpg' height='250px'>
+<img src='./results/tubingen_woman-with-hat-matisse_sw_0.1_cs_512_ss_512_tv_0.0001.jpg' height='250px'>
+</div>
 
 
 
 
 
 ## Author
-* *Il Gu Yi*
+* **Il Gu Yi**
