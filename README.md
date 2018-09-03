@@ -6,13 +6,13 @@ This repository is a collection of various style-transfer models.
 ## Getting Started
 
 ### Prerequisites
-* TensorFlow 1.10
+* `TensorFlow` 1.10
   * vgg_19 pre-trained models
 * Python 3.6
 * Python libraries:
-  * numpy, matplotlib, PIL
+  * `numpy`, `matplotlib`, `PIL`
 * Jupyter notebook
-* OS X and Linux (Not validated on Windows)
+* OS X and Linux (Not validated on Windows but probably it would work)
 
 
 ## Models
